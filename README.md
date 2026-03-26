@@ -1,7 +1,6 @@
 # Medical NCS Report Generator
 
-This application generates structured medical reports from NCS (Nerve Conduction Study) machine PDFs using GPT-4o-mini and Claude 3.5 Sonnet.
-
+This application generates structured medical reports from NCS (Nerve Conduction Study) machine PDFs using GPT and Claude.
 ## Setup Instructions
 
 1.  **Install Python**: Ensure you have Python 3.8 or higher installed.
