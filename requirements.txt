@@ -1,0 +1,9 @@
+streamlit
+pypdfium2
+Pillow
+openai
+anthropic
+python-dotenv
+tiktoken
+pydantic
+fpdf2
